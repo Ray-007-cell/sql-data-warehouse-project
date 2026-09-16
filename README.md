@@ -89,11 +89,12 @@ data-warehouse-project/
 ```
 ---
 
-## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
 
-Hi there! I'm **Manish Deora**, also known as **Ray-007-cell**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+## 🌟 About Me
+
+Hi there! I'm **Manish Deora**, also known as **Ray-007-cell**. I’m a **B.Tech. student** with a strong interest in **Data Analytics, SQL, Data Engineering, and Data Warehousing**. I’m passionate about learning data technologies, building practical projects, and developing my skills through hands-on experience.
+
 
