@@ -90,9 +90,6 @@ data-warehouse-project/
 ---
 
 
-
-## 🌟 About Me
-
 ## 🌟 About Me
 
 Hi there! I'm **Manish Deora**, also known as **Ray-007-cell**. I’m a **B.Tech. student** with a strong interest in **Data Analytics, SQL, Data Engineering, and Data Warehousing**. I’m passionate about learning data technologies, building practical projects, and developing my skills through hands-on experience.
